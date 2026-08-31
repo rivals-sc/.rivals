@@ -9,7 +9,7 @@
 Welcome to the comprehensive documentation for the **RIVALS Script** performance enhancement and optimization framework. This resource provides detailed technical guidance on deploying, customizing, and maximizing the potential of the **rivals script rivals** modification system. Designed for advanced users, competitive players, and technical enthusiasts, this documentation covers everything from basic setup to advanced configuration parameters.
 
 
-## [⬇️ Download Blox Fruits Script](https://ehoron.net)
+## [⬇️ Download RIVALS Script](https://ehoron.net)
 <img width="1368" height="767" alt="RIVALS Script - Auto Aim, ESP, Silent Aim, No Key" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALGJ5AubJP0pWY0YCfuloBw1rPrQ4Sha7SufF_Q6oNw&s" />
 
 
